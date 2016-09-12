@@ -1,0 +1,13 @@
+body {
+	background-image: url(https://oncirculation.files.wordpress.com/2014/10/kitten.jpg);
+	background-color: lightblue;
+}
+h1{
+	color:white;
+	text-align: center;
+}
+
+p{
+	font-family: verdana;
+	font-size: 40;
+}
